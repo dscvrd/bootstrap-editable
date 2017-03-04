@@ -2,7 +2,7 @@
   "name": "bootstrap-editable",
   "version": "1.0.0",
   "description": "x-editable bootstrap 3 npm package",
-  "main": "src/index.js",
+  "main": "js/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
